@@ -1,0 +1,9 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+	  <StartupObject>Logical_Prog_Exam.Binary_num_Recursion</StartupObject>
+  </PropertyGroup>
+
+</Project>
